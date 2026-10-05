@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/user/{userName}
+method: PUT
+order: 3513334903681932

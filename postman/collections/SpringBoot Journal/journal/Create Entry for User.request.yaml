@@ -1,0 +1,11 @@
+$kind: http-request
+url: http://localhost:8080/journal/deepak
+method: POST
+body:
+  type: json
+  content: |
+    {
+      "title": "Learning Spring Boot",
+      "content": "Today I learned MongoDB relationships"
+    }
+order: 2709868245413038

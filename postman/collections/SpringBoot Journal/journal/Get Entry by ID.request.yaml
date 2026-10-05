@@ -1,0 +1,4 @@
+$kind: http-request
+url: http://localhost:8080/journal/id/{myid}
+method: GET
+order: 3292166074386115

@@ -1,0 +1,11 @@
+$kind: http-request
+url: http://localhost:8080/journal/deepak
+method: GET
+body:
+  type: json
+  content: |
+    {
+      "title": "My Day",
+      "content": "Today was productive."
+    }
+order: 1791144881246
